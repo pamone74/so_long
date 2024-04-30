@@ -1,2 +1,1 @@
-# so_long
-This is 42 School projects Graphical
+Minitalk, this is the simple terminal communication between server and client using processes
